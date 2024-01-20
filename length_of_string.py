@@ -2,4 +2,4 @@
 text = 'I will get devops jobs by the end of this month'
 length = len(text)
 
-print(length)
+print("length of the string:", length)
