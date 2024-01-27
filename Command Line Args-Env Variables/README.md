@@ -31,4 +31,6 @@ Environment variables in Python serve as a way to configure and control the beha
 - Environment variables provide a standardized way for different programs and services to communicate and share configuration information.
 - Many libraries and frameworks in Python provide support for reading configuration from environment variables, making it easy to integrate different components.
 
+- N.B: To set environment variables externally, it depends on the operating system. For example, on Unix-based systems, you might use the `export` command, while on Windows, you can use the `set` command.
+
 
