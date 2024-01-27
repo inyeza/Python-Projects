@@ -7,3 +7,6 @@
 
 - `sys.argv` is a list in the `sys` module that contains the command-line arguments passed to the script.
 - `sys.argv[0]` is the script name itself, and the rest of the elements in the list represent the arguments provided by the user.
+
+# Environment Variables
+Environment variables in Python serve as a way to configure and control the behavior of programs and scripts. They are variables outside the program that can be accessed by the program at runtime. These variables are set in the operating system environment and can be read by the Python script or program to adapt its behavior accordingly. Environment variables are often used for the following purposes:
