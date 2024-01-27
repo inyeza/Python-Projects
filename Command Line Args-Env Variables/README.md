@@ -10,3 +10,15 @@
 
 # Environment Variables
 Environment variables in Python serve as a way to configure and control the behavior of programs and scripts. They are variables outside the program that can be accessed by the program at runtime. These variables are set in the operating system environment and can be read by the Python script or program to adapt its behavior accordingly. Environment variables are often used for the following purposes:
+
+**1. Configuration:**
+
+**2. Security:**
+
+**3. Portability:**
+
+**4. Dynamic Configuration:**
+
+**5. Compatibility:**
+
+
